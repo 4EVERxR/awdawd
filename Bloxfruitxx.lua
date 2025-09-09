@@ -37,7 +37,7 @@ Tabs.MainTab:Button({
 
         local longText = ""
         for i = 1, 20 do 
-            longText = longText .. "xckasdifseof"
+            longText = longText .. "xTEST1"
         end
 
         local textLabel = Instance.new("TextLabel")
